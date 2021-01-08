@@ -1,6 +1,6 @@
 # SiteWeb_RaidPhoto
 
-Le but de ce projet est de développer un site personnel, pour des clients fictifs, uniquement en HTML/CSS.
+Le but de ce projet est de développer un site pour des clients fictifs, uniquement en HTML/CSS.
 
 ## Présentation de l'aventure Paris Cap Nord
 
