@@ -6,7 +6,7 @@ Le but de ce projet est de développer un site pour des clients fictifs, uniquem
 
 Ce site présente l'aventure du Raid Photo Paris - Cap Nord, un concept qui a lieu tout les 2 ans et dont la prochaine édition est prévue à l'été 2021. Ce raid photographique existe depuis 1988, il rassemble des participants de plus de 20 pays et son parcours traverse les pays nordiques (Norvège, Suède, Finlande, Danemark) pendant la période du soleil de minuit, du 20 juillet au 20 août 2021. 
 
-## Présentation du site web 
+## Présentation du site 
 
 Passionnés par les voyages et la photographie, les clients ce sont inscrits au Raid Photo Paris - Cap Nord.
 Ce site montre à la fois le périple avec la carte routière et l'approche photographique avec :
@@ -22,6 +22,10 @@ Ce site montre à la fois le périple avec la carte routière et l'approche phot
 
 - Se déplacer dans le répertoire site_web
 - Ouvrir le fichier "accueil_html" avec un navigateur web
+
+## Architecture globale du site 
+
+<img src="screens/architecture_globale_site.png" alt="ArchitectureGlobaleSite"/>
 
 ## Screens du site 
 
