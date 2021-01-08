@@ -25,4 +25,8 @@ Ce site montre à la fois le périple avec la carte routière et l'approche phot
 
 ## Screens du site 
 
-<img src="screens/1.1-Accueil.png" alt="Accueil1"/> <img src="screens/1.2-Accueil.png" alt="Accueil2"/>
+<img src="screens/1.1-Accueil.png" alt="Accueil1"/> 
+<img src="screens/1.2-Accueil.png" alt="Accueil2"/>
+<img src="screens/2-Participer.png" alt="Participer"/>
+<img src="screens/3-Sponsor.png" alt="Sponsor"/>
+<img src="screens/4-Boutique.png" alt="Boutique"/>
