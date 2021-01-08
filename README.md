@@ -25,7 +25,7 @@ Ce site montre à la fois le périple avec la carte routière et l'approche phot
 
 ## Architecture globale du site 
 
-<img src="screens/architecture_globale_site.png" alt="ArchitectureGlobaleSite"/>
+<img src="screens/architecture_globale_du_site.png" alt="ArchitectureGlobaleSite"/>
 
 ## Screens du site 
 
