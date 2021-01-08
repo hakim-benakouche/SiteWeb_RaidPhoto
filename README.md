@@ -17,3 +17,12 @@ Ce site montre à la fois le périple avec la carte routière et l'approche phot
 - La page Sponsor, qui permet de trouver un sponsor pour financer le projet avec un compteur des finances rassemblées
 - La page Boutique, ou l'on peut acheter des produits personnalisés ou faire un don pour financer le projet.
 - Un lien vers le site officiel Raid Photo
+
+## Comment voir le site 
+
+- Se déplacer dans le répertoire site_web
+- Ouvrir le fichier "accueil_html" avec un navigateur web
+
+## Screens du site 
+
+
